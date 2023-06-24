@@ -1,0 +1,12 @@
+com.example.testando_trabalho.app-jetified-window-1.0.0-beta04-0 /Users/admin/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.testando_trabalho.app-jetified-annotation-experimental-1.1.0-1 /Users/admin/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.testando_trabalho.app-core-1.6.0-2 /Users/admin/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.testando_trabalho.app-jetified-window-java-1.0.0-beta04-3 /Users/admin/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.testando_trabalho.app-debug-4 /Volumes/HD2/desafios/soluevo/android/app/src/debug/res
+com.example.testando_trabalho.app-main-5 /Volumes/HD2/desafios/soluevo/android/app/src/main/res
+com.example.testando_trabalho.app-pngs-6 /Volumes/HD2/desafios/soluevo/build/app/generated/res/pngs/debug
+com.example.testando_trabalho.app-resValues-7 /Volumes/HD2/desafios/soluevo/build/app/generated/res/resValues/debug
+com.example.testando_trabalho.app-rs-8 /Volumes/HD2/desafios/soluevo/build/app/generated/res/rs/debug
+com.example.testando_trabalho.app-mergeDebugResources-9 /Volumes/HD2/desafios/soluevo/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.testando_trabalho.app-mergeDebugResources-10 /Volumes/HD2/desafios/soluevo/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.testando_trabalho.app-merged_res-11 /Volumes/HD2/desafios/soluevo/build/app/intermediates/merged_res/debug
