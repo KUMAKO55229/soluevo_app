@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../managers/sentenceManager.dart';
+import '../managers/sentence_manager.dart';
 
-class wordCounterScreen extends StatelessWidget {
+class WordCounterScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final Color primaryColor = Theme.of(context).primaryColor;

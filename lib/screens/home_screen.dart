@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:soluevo_app/managers/sentenceManager.dart';
+import 'package:soluevo_app/managers/sentence_manager.dart';
 import 'package:provider/provider.dart';
 
 class HomePage extends StatelessWidget {

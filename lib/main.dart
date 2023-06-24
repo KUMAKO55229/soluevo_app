@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:soluevo_app/managers/sentenceManager.dart';
+import 'package:soluevo_app/managers/sentence_manager.dart';
 import 'screens/word_counter_screen.dart';
 import 'screens/home_screen.dart';
 
@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
         onGenerateRoute: (settings) {
           switch (settings.name) {
             case '/frasecounter':
-              return MaterialPageRoute(builder: (_) => wordCounterScreen());
+              return MaterialPageRoute(builder: (_) => WordCounterScreen());
             case '/home':
             default:
               return MaterialPageRoute(builder: (_) => HomePage());
